@@ -1,5 +1,5 @@
 #Travel Journal
-#It is a web app that allows view users' travels, photos, addresses, dates, and descriptions, Also view all trips on a map using Google Maps link.
+#It is a web app that views users' travels, photos, addresses, dates, and descriptions, Also view all trips on a map using Google Maps link.
 
 #Requirements: Node.js, React, npm
 
